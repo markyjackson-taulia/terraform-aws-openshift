@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -x
 
 # Elevate priviledges, retaining the environment.
