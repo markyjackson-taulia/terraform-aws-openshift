@@ -8,3 +8,5 @@ terraform.tfstate.backup
 inventory.cfg
 *.lock.info
 .private.env
+.gitignore
+.idea/
